@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271053604729",
+    "project_id": "reciclapp-77df6",
+    "storage_bucket": "reciclapp-77df6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271053604729:android:8bab3502c06edebeb351a8",
+        "android_client_info": {
+          "package_name": "com.company.reciclapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7IXGkvYNw7JH8J6FevDQI_h-AKeSkKyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
